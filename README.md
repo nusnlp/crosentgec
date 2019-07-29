@@ -3,7 +3,7 @@ Cross-sentence Grammatical Error Correction
 
 This repository contains the code and models to train and test cross-sentence grammatical error correction models using convolutional sequence-to-sequence models.
 
-If you use this code, please cite this paper:
+If you use this code, please cite this [paper](https://www.aclweb.org/anthology/P19-1042):
 ```
 @InProceedings{chollampatt2019crosent,
   author    = {Shamil Chollampatt and Weiqi Wang and Hwee Tou Ng},
