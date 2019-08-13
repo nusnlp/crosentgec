@@ -34,9 +34,9 @@ For training NUS3 models:
 
 1. Run `prepare_test.sh` to prepare the test datasets.
 
-2. Download all pre-requiste components (BPE model, embeddings, and pre-trained decoder)  using the `download.sh`
+2. Download all pre-requiste components (BPE model, embeddings, dictionaries, and pre-trained decoder)  using the `download.sh`
 
-3. Download CroSent models and dictionaries using `download_pretrained_crosent.sh` script.
+3. Download CroSent models using `download_pretrained_crosent.sh` script.
 
 4. Decode development/test sets with `decode.sh`.
 
