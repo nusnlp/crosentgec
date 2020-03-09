@@ -19,7 +19,7 @@ echo "downloading models from Chollampatt and Ng, AAAI 2018"
 models_url=https://tinyurl.com/yd6wvhgw/mlconvgec2018/models
 
 echo "downloading embeddings..."
-curl -L -o models/embed/model.vec https://tinyurl.com/yd6wvhgw/mlconvgec2018/models/embeddings/wiki_model.ve
+curl -L -o models/embed/model.vec https://tinyurl.com/yd6wvhgw/mlconvgec2018/models/embeddings/wiki_model.vec
 
 echo "downloading dictionaries..."
 curl -L -o models/dicts/dict.src.txt $models_url/data_bin/dict.src.txt
